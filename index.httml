@@ -1,0 +1,163 @@
+Create httml
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blue Star Agency</title>
+
+  <link rel="stylesheet" href="style.css" />
+
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<header class="hero">
+
+<nav>
+<div class="logo">
+⭐ Blue Star Agency
+</div>
+
+<ul>
+<li><a href="#sobre">Sobre</a></li>
+<li><a href="#beneficios">Benefícios</a></li>
+<li><a href="#faq">FAQ</a></li>
+<li><a href="#cadastro">Cadastro</a></li>
+</ul>
+
+</nav>
+
+<div class="hero-content">
+
+<h1>
+Ganhe em dólar trabalhando de onde quiser.
+</h1>
+
+<p>
+Entre para a Blue Star Agency e descubra como transformar seu tempo em uma renda internacional.
+</p>
+
+<a href="#cadastro" class="botao">
+Quero fazer parte
+</a>
+
+</div>
+
+</header>
+
+<section id="sobre" class="section">
+
+<h2>Quem Somos</h2>
+
+<p>
+
+A Blue Star Agency conecta pessoas a oportunidades de trabalho remoto com remuneração em dólar.
+
+Nosso objetivo é oferecer treinamento, suporte e acompanhamento para que você possa iniciar sua jornada com segurança.
+
+</p>
+
+</section>
+
+<section id="beneficios" class="section">
+
+<h2>Por que escolher a Blue Star?</h2>
+
+<div class="cards">
+
+<div class="card">
+<h3>💵 Ganhos em dólar</h3>
+<p>Receba em moeda internacional.</p>
+</div>
+
+<div class="card">
+<h3>🌍 Trabalho remoto</h3>
+<p>Trabalhe de qualquer lugar.</p>
+</div>
+
+<div class="card">
+<h3>🎓 Treinamento</h3>
+<p>Você recebe orientação completa.</p>
+</div>
+
+<div class="card">
+<h3>🚀 Crescimento</h3>
+<p>Evolua profissionalmente todos os meses.</p>
+</div>
+
+</div>
+
+</section>
+
+<section id="faq" class="section">
+
+<h2>Perguntas Frequentes</h2>
+
+<div class="faq">
+
+<h3>Preciso ter experiência?</h3>
+
+<p>
+Não. Ensinamos todo o processo.
+</p>
+
+<h3>Quanto posso ganhar?</h3>
+
+<p>
+Os ganhos variam conforme dedicação, desempenho e tempo de trabalho.
+</p>
+
+<h3>Posso trabalhar pelo celular?</h3>
+
+<p>
+Sim, embora um computador ofereça uma experiência melhor.
+</p>
+
+</div>
+
+</section>
+
+<section id="cadastro" class="section">
+
+<h2>Faça seu cadastro</h2>
+
+<form>
+
+<input type="text" placeholder="Nome completo">
+
+<input type="email" placeholder="Seu e-mail">
+
+<input type="tel" placeholder="WhatsApp">
+
+<button type="submit">
+Quero participar
+</button>
+
+</form>
+
+</section>
+
+<footer>
+
+<h2>Blue Star Agency</h2>
+
+<p>
+Transformando oportunidades em sucesso.
+</p>
+
+<div class="redes">
+
+<a href="#">Instagram</a>
+
+<a href="#">WhatsApp</a>
+
+</div>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
